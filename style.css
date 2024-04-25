@@ -1,0 +1,23 @@
+img {
+  width: 300px;
+  border: 13px solid black;
+}
+
+h1 {
+  font-family: cursive;
+  color: ;
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  text-indent: 100px;
+}
+
+p
+{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+  font-family: 'Courier New', Courier, monospace;
+}
