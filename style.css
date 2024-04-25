@@ -1,23 +1,29 @@
+
 img {
+  /* i added a costant width to make all images align on page */
   width: 300px;
+  /* added border around image to frame it */
   border: 13px solid black;
 }
 
 h1 {
+  /* added font to the page title to make it nicer */
   font-family: cursive;
-  color: ;
 }
 
 h2 {
+  /* added font to titles to make them nicer */
   font-family: 'Courier New', Courier, monospace;
-  text-indent: 100px;
+  /* indented the text so it aligns better with image */
+  text-indent: 150px;
 }
 
-p
-{
+p {
+  /* added same font to paragraph as header for consistency */
   font-family: 'Courier New', Courier, monospace;
 }
 
 ul {
+  /* added same font to paragraph as header for consistency */
   font-family: 'Courier New', Courier, monospace;
 }
