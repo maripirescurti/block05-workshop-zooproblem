@@ -8,7 +8,8 @@ img {
 
 h1 {
   /* added font to the page title to make it nicer */
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -16,6 +17,7 @@ h2 {
   font-family: 'Courier New', Courier, monospace;
   /* indented the text so it aligns better with image */
   text-indent: 150px;
+  text-transform: uppercase;
 }
 
 p {
@@ -26,4 +28,10 @@ p {
 ul {
   /* added same font to paragraph as header for consistency */
   font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  font-family: Courier New;
+  text-transform: uppercase;
+  color: goldenrod;
 }
